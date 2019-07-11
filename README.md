@@ -3,7 +3,7 @@ This is the android test
 					
 ***Android Developer Coding Task***
 
-![alt mockup](https://i.imgur.com/2sUC7Ie.png)
+![alt text](https://i.imgur.com/2sUC7Ie.png)
 
 
 **API**
